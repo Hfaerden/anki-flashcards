@@ -25,7 +25,7 @@ with open("regs.txt", "r") as f:
             if (reg.split(")")[0]).endswith("+"):
                 justreg = reg.split(")")
                 regnum = justreg.pop(0).rstrip()
-                g.write(regnum+ "\t"+ "".join(justreg).rstrip() + "\t " + currentarticle + "\n")
+                g.write(f"{regnum}\t{"".join(justreg.rstrip())}\t{currentarticle}\n")
 
 #Regs
 with open("regs.txt", "r") as f:
