@@ -1,4 +1,4 @@
-Article 1: Officials
+ Article 1: Officials
 1a) A competition must include a WCA Delegate and an organization team (consisting of one or more individuals) with the following officials: judges, scramblers and score takers.
 1b) The organization team of a competition is responsible for logistics before, during, and after the competition.
 1c) The WCA Delegate is responsible for ensuring that the competition adheres to the WCA Regulations and any applicable WCA policies or requirements. The WCA Delegate may appoint other members of the organization team to carry out specific responsibilities on their behalf, but is ultimately accountable for how these responsibilities are carried out.
@@ -24,7 +24,7 @@ Article 1: Officials
 1h1b) For 3x3x3 Multi-Blind, competitors may judge other competitors in their own group after they have finished their attempt.
 1j) All officials may compete in the competition.
 1k) Officials may serve multiple roles (e.g. organization team, WCA Delegate, judge, score taker, scrambler).
-Article 2: Competitors
+ Article 2: Competitors
 2a) Any person may compete in a WCA competition if they:
 2a1) Comply with WCA Regulations.
 2a2) Meet the competition requirements, which must be clearly announced before the competition.
@@ -106,7 +106,7 @@ Article 2: Competitors
 2u1) Exception: A competitor who is not present in time for an individually scheduled attempt (e.g. a 3x3x3 Fewest Moves attempt, a 3x3x3 Multi-Blind attempt) may be considered to have declined that attempt (DNS), at the discretion of the WCA Delegate.
 2u1+) ADDITION The competitor may compete at the discretion of the WCA Delegate. The WCA Delegate must carefully consider the fairness of allowing it.
 2u2) Exception: For rounds with a cumulative time limit, a competitor who arrives late may compete with a reduced cumulative time limit, at the discretion of the WCA Delegate.
-Article 3: Puzzles
+ Article 3: Puzzles
 3a) Competitors are responsible for providing their puzzles for the competition.
 3a+) CLARIFICATION Competitors may use puzzles of any reasonable size, at the discretion of the WCA Delegate.
 3a++) ADDITION By default, a competitor should use the same puzzle for consecutive attempts in a speed solving round. A competitor may switch puzzles between attempts, at the discretion of the judge or WCA Delegate.
@@ -161,7 +161,7 @@ Article 3: Puzzles
 3l1b) For Square-1, the logo must be on a piece in the equatorial slice.
 3l2) The logo may be embossed, engraved, or consist of an overlay sticker.
 3m) All brands of puzzles and puzzle parts are permitted, as long as the puzzles comply with all WCA Regulations.
-Article 4: Scrambling
+ Article 4: Scrambling
 4a) A scrambler applies scramble sequences to the puzzles.
 4b) Competition scramble sequences must be generated using a current official version of an official WCA scramble program (available via the WCA website).
 4b+) RECOMMENDATION The WCA Delegate should generate sufficient scramble sequences for the entire competition ahead of time, including spare scramble sequences for extra attempts.
@@ -197,7 +197,7 @@ Article 4: Scrambling
 4g1b+) CLARIFICATION For 5x5x5 Blindfolded, incorrect puzzle states must always be corrected.
 4g1b++) RECOMMENDATION The WCA Delegate should use stronger discretion when determining whether or not incorrect puzzle states for 5x5x5 Cube need to be corrected.
 4g2) For Multi-Blind Solving, after scrambling all the cubes, the scrambler must verify there are no duplicate scrambles.
-Article 5: Puzzle Defects
+ Article 5: Puzzle Defects
 5a) Examples of puzzle defects include: popped parts, pieces twisted in place, and detached screws/caps/stickers.
 5b) If a puzzle defect occurs during an attempt, the competitor may choose to either repair the defect and continue the attempt, or to stop the attempt. The competitor is not permitted to cause a puzzle defect intentionally, unless correcting a previous puzzle defect (see Regulation 5b3b and Regulation 5b3c). Examples of intentionally causing puzzle defects: removing an attached center cap, rotating a corner piece, peeling a sticker.
 5b1) If a competitor chooses to repair the puzzle, they must repair only the defective parts. Tools and/or parts of other puzzles must not be used to repair the original puzzle. Penalty: disqualification of the attempt (DNF).
@@ -222,7 +222,7 @@ Article 5: Puzzle Defects
 5b5f++++) CLARIFICATION If there are multiple pieces partially detached or not fully placed, their final position is assessed one at a time. The piece that is closest to an open position is assessed first, and is then considered to occupy that position. This process is repeated until all partially detached or not fully placed pieces have been assessed.
 5b6) Definition: A part is one or more fully connected components from a group of puzzle components that remain connected and do not move relative to each other during ordinary operation of the puzzle (e.g. a 3x3x3 center cap, a Pyraminx tip, a 3x3x3 corner piece missing one face, one face of a 3x3x3 corner piece).
 5c+) REMINDER If a competitor has a puzzle defect, this does not grant them the right to an extra attempt.
-Article 7: Environment
+ Article 7: Environment
 7b) Spectators must remain at least 1.5 meters away from the solving stations when they are in use.
 7c) Lighting of the competition area must be given special attention. Lighting should be neutral, such that competitors can easily differentiate among the colors on the puzzles.
 7e) The competition area must be smoke-free.
@@ -237,9 +237,9 @@ Article 7: Environment
 7f3) The organization team should modify Stackmat timers to be more robust against common incidents, by making the buttons more difficult to press by accident (e.g. by attaching O-rings around the buttons) and securing the battery more firmly (e.g. by padding the battery compartment).
 7f4) Generation 5 Pro Timer must be used in 2-pad mode.
 7h) If competitors do not remain at the same station for all of their attempts in a round, the competition area must have one or more Competitor Waiting Areas. Exception: rounds with individually scheduled attempts.
-7h2) Definition: A Competitor Waiting Area is an area in which competitors in a group wait at to be called to a solving station.
+7h2) Definition: A Competitor Waiting Area is an area in which competitors in a group wait at to be called to a solving station. 
 7h2+) ADDITION Competitors in a Competitor Waiting Area who are waiting between attempts should not be able to see the puzzles of the competitors on stage.
-Article 9: Events
+ Article 9: Events
 9a) The WCA governs competitions for mechanical puzzles that are operated by twisting groups of pieces, commonly known as "twisty puzzles".
 9b) The official events of the WCA are:
 9b++) ADDITION Events other than those specified in Regulation 9b may be held during a competition, but will be considered unofficial and therefore will not be included in the official results of the competition.
@@ -262,7 +262,7 @@ Article 9: Events
 9f) The results of a round are measured as follows:
 9f1) All timed results under 10 minutes, except for 3x3x3 Multi-Blind, are measured and truncated to hundredths of a second. All timed averages and means under 10 minutes are measured and rounded to the nearest hundredth of a second.
 9f1+) EXAMPLE If the timer displays 12.678 for an attempt, the original recorded time is 12.67 (drop any digit after a hundredth of a second). A judge may write the full-precision time on the score sheet (and keep the precision in the calculation of penalties), as long as the score taker truncates it for the official results.
-9f2) All timed results, averages, and means over 10 minutes, as well as all times for 3x3x3 Multi-Blind results, are measured and truncated to seconds.
+9f2) All timed results over 10 minutes, as well as all times for 3x3x3 Multi-Blind results, are measured and truncated to seconds. All timed averages and means over 10 minutes are measured and rounded to the nearest second (e.g. X.49 becomes X, X.50 becomes X+1).
 9f2+) ADDITION For 3x3x3 Multi-Blind, the judge should record the number of puzzles solved, the number of puzzles attempted, and the final time. For example, if the competitor solves 3 cubes out of 5 attempted cubes in 40 minutes and 30 seconds, the judge should write down 3/5 40:30.
 9f4) The result of an attempt is recorded as DNF (Did Not Finish) if the attempt is disqualified or unsolved/unfinished.
 9f4+) CLARIFICATION The result of an attempt should be a DNF if the competitor began the attempt by indicating that they are ready (see Regulation A3b2) but the attempt was disqualified.
@@ -327,7 +327,7 @@ Article 9: Events
 9u2a) All the listed WCA Delegates permanently leave the venue.
 9u2b) The end of the last calendar date of the competition is reached.
 9u2b+) ADDITION The calendar date of the end of the competition is determined by the local time for the location in which the competition took place.
-Article 10: Solved State
+ Article 10: Solved State
 10b) Only the resting state of the puzzle, after the timer has been stopped, is considered.
 10c) The puzzle may be in any orientation at the end of the solve.
 10d) All parts of a puzzle must be physically attached to the puzzle and fully placed in their required positions. Exception: see Regulation 5b5.
@@ -348,7 +348,7 @@ Article 10: Solved State
 10h1) The solved state of Clock is achieved when all eighteen inner clock faces point to 12 o'clock.
 10h1+) ADDITION The solved state of Clock is not affected by loose or popped pin caps.
 10h1a) Inner clock faces that do not clearly point to a particular hour marker are considered to point to the nearest hour marker.
-Article 11: Incidents
+ Article 11: Incidents
 11a) Incidents include:
 11a1) Incorrect execution of event procedures, by officials or competitors.
 11a2) Interference or facility interruptions (e.g. power failure, emergency alarm activation).
@@ -401,7 +401,7 @@ Article 11: Incidents
 11j3) If the error is noticed during the competition but after the group, the missing attempt must be replaced with an extra attempt.
 11j3+) REMINDER The scramble sequence used for the extra attempt must not be obtained from a previous group.
 11j4) If the error is only noticed after the competition, the result will be considered DNS.
-Article 12: Notation
+ Article 12: Notation
 12a) Notation for NxNxN Cubes:
 12a1) Face Moves (outer slice):
 12a1a) Clockwise, 90 degrees: F (front face), B (back face), R (right face), L (left face), U (upper face), D (bottom face).
@@ -449,7 +449,7 @@ Article 12: Notation
 12i) Definition: A move is considered to be any change to the puzzle state in terms of the notation defined above, including misalignments beyond the limits described in Regulation 10f.
 12i+) CLARIFICATION Rotations do not change the puzzle state.
 12i1) Exception: For Clock, only changes in the position of the inner clock faces are considered to be moves. Changes to the state of the pins are not considered to be moves.
-Article A: Speed Solving
+ Article A: Speed Solving
 A1) Speed Solving attempts must abide by the following procedures.
 A1a) The organization team must apply at least one kind of time limit (time limit per attempt and/or cumulative time limit) to each round.
 A1a+) CLARIFICATION If both limits are applied, the time limit per attempt must not be greater than the cumulative time limit.
@@ -573,7 +573,7 @@ A7g+) EXAMPLE Examples of incidents that could grant a competitor an extra attem
 A7g++) CLARIFICATION Individual penalties cannot be waived. A full extra attempt must be granted.
 A7g+++) RECOMMENDATION The WCA Delegate should use stronger discretion when granting more than one extra attempt to the same competitor. If more than one extra attempt is granted, it should be for a different type of incident. Example: if the WCA Delegate already awarded an extra attempt for a competitor who did not wait long enough for the green light, they should not award another extra attempt if that competitor fails to wait long enough for the green light again.
 A7g++++) CLARIFICATION A competitor may be considered inexperienced if they are a new competitor, it is their first time competing in a specific event, or they have not competed in a specific event for a significant period of time. The inexperience must be related to the incident.
-Article B: Blindfolded Solving
+ Article B: Blindfolded Solving
 B1) Standard speed solving procedures are followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
 B1+) REMINDER The competitor must use a puzzle without textures, markings, or other features that distinguish similar pieces (see Regulation 3k). This should be given special attention for Blindfolded Solving. Exception: For 3x3x3 Blindfolded, the puzzle may have any logos permitted by Regulation 3l.
 B1a) There is no inspection period (i.e. the solve starts at the same time as the attempt).
@@ -604,14 +604,14 @@ B4c1) In all cases, the competitor must wear the blindfold such that their view 
 B4c2) A sight blocker must be positioned such that the competitor's view of the puzzle would still clearly be blocked if they were not wearing a blindfold.
 B4c3) If the judge and competitor agree beforehand, or if required by the organization team, a suitable object (e.g. a music stand, the surface of the table) placed by the competitor may be used as the sight blocker. The competitor must make a reasonable attempt to place the sight blocker themselves. Penalty: disqualification of the attempt (DNF). If the sight blocker is not positioned such that the competitor's view of the puzzle would still clearly be blocked if they were not wearing a blindfold, an extra sight blocker should be placed by the judge.
 B4d) The competitor must not look at the puzzle at any point during the blindfolded phase. Penalty: disqualification of the attempt (DNF).
-B4d+) CLARIFICATION For 3x3x3 Blindfolded, competitors are permitted to determine the location of a permitted logo (see Regulation 3l) by touch during the blindfolded phase.
+B4d+) CLARIFICATION For 3x3x3 Blindfolded, competitors are permitted to determine the location of a permitted logo (see Regulation 3l) by touch during the blindfolded phase. 
 B5) Stopping the solve:
 B5a) When using the Stackmat timer, the competitor stops the solve by releasing the puzzle and then stopping the timer.
 B5a1) If a stopwatch is in use in addition to the Stackmat timer, the judge stops the stopwatch as soon as the competitor stops the solve.
 B5b) When using a stopwatch as the only timer, the competitor stops the solve by releasing the puzzle and notifying the judge that they have stopped the solve. The judge stops the stopwatch as soon as the competitor does this.
 B5b1) The competitor's default notification signal consists of releasing the puzzle(s) from their hands and placing their hands on the surface, with palms down. The competitor and the judge may agree on another appropriate notification before the start of the attempt.
 B5c) If the competitor is not touching the puzzle, they may remove the blindfold before they stop the timer. They must not touch the puzzle until the end of the solve. Penalty for touching the puzzle: disqualification of the attempt (DNF).
-Article C: One-Handed Solving
+ Article C: One-Handed Solving
 C1) Standard speed solving procedures are followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
 C1b) During the solve, the competitor must use only one hand to operate the puzzle. Penalty: disqualification of the attempt (DNF).
 C1b+) CLARIFICATION The competitor may use both hands during inspection.
@@ -620,7 +620,7 @@ C1b2) If a puzzle defect occurs, and the competitor chooses to repair it, they m
 C1b3) If other body parts of the competitor come in contact with the puzzle or parts of the puzzle without the competitor's intention and without applying moves, this is not considered operating the puzzle, at the discretion of the judge.
 C1b4) During the solve, the competitor may hold the puzzle against the surface to help operate the puzzle (see Regulation 7f1d).
 C1c) During the solve, once a competitor operates the puzzle with one hand, they must not operate the puzzle with the other hand. Penalty: disqualification of the attempt (DNF).
-Article E: Fewest Moves Solving
+ Article E: Fewest Moves Solving
 E2) Procedure for 3x3x3 Fewest Moves:
 E2a) The judge distributes a scramble sequence and paper to all competitors. The judge then starts the stopwatch and calls "GO".
 E2a1) Before the attempt has begun, the competitor must not write on any paper intended for the attempt. Exception: the competitor may write information to identify the attempt (see Regulation E2c1). If they write this information on the paper that contains the scramble sequence, they must write only on the side without the scramble sequence before the attempt. Penalty for writing anything other than information to identify the attempt: disqualification of the attempt (DNF).
@@ -667,7 +667,7 @@ E6) A competitor may join a 3x3x3 Fewest Moves attempt that is already in progre
 E6a) A competitor has finished their attempt already (see Guideline E2b+).
 E6b) The attempt takes place in a competition with multiple physical locations (i.e. "3x3x3 Fewest Moves simultaneous competitions").
 E6c) There is any risk that information about the scramble may have become known to the competitor who wishes to join.
-Article H: Multi-Blind Solving
+ Article H: Multi-Blind Solving
 H1) Standard blindfolded solving procedures are followed, as described in Article B (Blindfolded Solving). Additional regulations that supersede the corresponding procedures in Article B are described below.
 H1+) ADDITION If a puzzle with a duplicate scramble is found during an attempt, the puzzle may be re-scrambled using a different scramble sequence, at the discretion of the WCA Delegate.
 H1a) Before an attempt, the competitor must submit to the organization team the number of puzzles (at least 2) they wish to attempt.
